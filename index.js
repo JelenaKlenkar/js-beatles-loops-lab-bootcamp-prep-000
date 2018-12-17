@@ -23,5 +23,6 @@ var newArray=[];
   newArray.push(`${factsArray[i]}` + "!!!");
 i++;
 }
+}
 return newArray;
 }
