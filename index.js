@@ -15,5 +15,6 @@ const facts=[
 'He hated the sound of his own voice'
 ];
 function johnLennonFacts(factsArray){
+  
   while
 }
